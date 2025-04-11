@@ -1,0 +1,16 @@
+{
+    "name": "segun/app_carrinho_compras",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Segundo",
+            "email": "segundinho.medeiros@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\" : "src/"
+        }
+    }
+}
