@@ -1,0 +1,15 @@
+{
+    "name": "segun/app_mensageiro",
+    "authors": [
+        {
+            "name": "Segundo",
+            "email": "segundinho.medeiros@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "AppMensageiro\\": "src/"
+        }
+    }
+}
